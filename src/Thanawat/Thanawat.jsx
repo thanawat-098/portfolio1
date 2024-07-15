@@ -76,36 +76,6 @@ function Thanawat() {
       </div>
     </section>
 
-    // <div className="bg-background text-primary-foreground min-h-screen flex flex-col items-center justify-center">
-    //         <h1 className="text-3xl font-bold mb-4">Welcome to My Portfolio</h1>
-    //         <p className="text-lg mb-8">I am a passionate web developer ready to take on new challenges!</p>
-    //     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-    //         <div className="bg-card p-6 rounded-lg">
-    //             <h2 className="text-xl font-bold mb-2">Projects</h2>
-    //             <p className="text-lg mb-4">Check out some of my latest projects:</p>
-    //             <div className="border border-border p-4 rounded-lg">
-    //                 <h3 className="text-lg font-bold mb-2">Project 1</h3>
-    //                 <p className="text-sm text-muted-foreground mb-2">Description of Project 1</p>
-    //                 <img src="https://openui.fly.dev/openui/300x200.svg?text=Project+1" alt="Project 1" className="mb-2" />
-    //                 <a href="#" className="text-primary hover:underline">View Project</a>
-    //             </div>
-    //             <div className="border border-border p-4 rounded-lg mt-4">
-    //                 <h3 className="text-lg font-bold mb-2">Project 2</h3>
-    //                 <p className="text-sm text-muted-foreground mb-2">Description of Project 2</p>
-    //                 <img src="https://openui.fly.dev/openui/300x200.svg?text=Project+2" alt="Project 2" className="mb-2" />
-    //                 <a href="#" className="text-primary hover:underline">View Project</a>
-    //             </div>
-    //         </div>
-
-    //         <div className="bg-card p-6 rounded-lg">
-    //             <h2 className="text-xl font-bold mb-2">About Me</h2>
-    //             <p className="text-lg mb-4">Get to know me better:</p>
-    //             <img src="https://openui.fly.dev/openui/300.svg?text=Profile+Picture" className="rounded-full mb-4" />
-    //             <p className="text-sm text-muted-foreground mb-2">I am a web developer with a passion for creating amazing web experiences.</p>
-    //             <a href="#" className="text-primary hover:underline">Learn More</a>
-    //         </div>
-    //     </div>
-    //     </div>
   );
 }
 
